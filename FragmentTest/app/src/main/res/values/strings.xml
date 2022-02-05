@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="to_main_fragment">메인 프래그먼트</string>
+    <string name="to_menu_fragment">메뉴 프래그먼트</string>
+</resources>
