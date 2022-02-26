@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">가족 앨범</string>
+
+    <string name="title">select the video</string>
+
+    <string name="what1">피아노 연주</string>
+    <string name="who1">조단비</string>
+    <string name="video1">danbee</string>
+
+    <string name="what2">멍멍이와 함께</string>
+    <string name="who2">조은비</string>
+    <string name="video2">eunbee1</string>
+
+    <string name="what3">과자가 맛있어요</string>
+    <string name="who3">조은비</string>
+    <string name="video3">eunbee2</string>
+
+    <string name="what4">과자가 맛있어요2</string>
+    <string name="who4">조은비</string>
+    <string name="video4">eunbee3</string>
+
+    <string name="what5">방송 아나운서</string>
+    <string name="who5">조단비</string>
+    <string name="video5">danbee2</string>
+</resources>

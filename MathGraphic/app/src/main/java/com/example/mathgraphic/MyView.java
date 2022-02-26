@@ -44,7 +44,6 @@ public class MyView extends View {
     @Override
     public void onDraw(Canvas canvas) {
 
-
         for (int i = 1; i <= dataNumber; i++) {
 
             if (myData_color[i] == 0)
